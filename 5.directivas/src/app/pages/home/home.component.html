@@ -1,0 +1,16 @@
+<h1>Esto es la seccion de directivas</h1>
+
+<ng-template [ngIf]="visible===true">
+  <p>el contenido de este div se va a ver si la variable esta en true</p>
+</ng-template>
+
+<p *ngIf="hora<=20">buenas tardes</p>
+<p *ngIf="hora>20">buenas noches</p>
+
+<ng-template [ngIf]="superheroes.length >0">
+<ul>
+  <li *ngFor="let superheroe of superheroes;let index = index">
+    <p>{{superheroe}} {{index}}</p>
+  </li>
+</ul>
+</ng-template>
