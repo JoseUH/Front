@@ -1,0 +1,1 @@
+lo primero que vais a necesitar es instalar  este comando "npm i -g json-server" y una vez instalado lo unico que tendremos que hacer es ejecutar este :  "json-server --watch db.json"

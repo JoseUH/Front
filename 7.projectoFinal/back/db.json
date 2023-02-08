@@ -1,0 +1,39 @@
+{
+  "comics": [
+    {
+      "title": "Spiderman: Entre los muertos",
+      "author": "Mark Millar",
+      "cover": "https://m.media-amazon.com/images/I/513-GlD0oWL.jpg",
+      "company": "Marvel",
+      "id": 2
+    },
+    {
+      "title": "Joker",
+      "author": "Azarello",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/814szaQEMxL.jpg",
+      "company": "DC",
+      "id": 4
+    },
+    {
+      "title": "Guardianes de la Galaxia",
+      "author": "Bendis",
+      "cover": "https://www.cinemascomics.com/wp-content/uploads/2018/11/guardianes-de-la-galaxia-vengadores-del-manana-portada.jpg",
+      "company": "Marvel",
+      "id": 5
+    },
+    {
+      "title": "Batman: The Long Halloween",
+      "author": "Joseph Loeb",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/91D+7bVSo0L.jpg",
+      "company": "DC",
+      "id": 6
+    },
+    {
+      "title": "benito",
+      "author": "platero y tu",
+      "cover": "https://cdn.pixabay.com/photo/2017/10/17/16/10/fantasy-2861107_1280.jpg",
+      "company": "disney",
+      "id": 7
+    }
+  ]
+}

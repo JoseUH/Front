@@ -1,0 +1,7 @@
+<div class="comic">
+  <div *ngFor="let comic of comicList">
+<h4>{{comic.title}}</h4>
+<img src="{{comic.cover}}" alt="{{comic.title}}">
+<button routerLink="/comics/{{comic.id}}">ver mas</button>
+  </div>
+</div>
