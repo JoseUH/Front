@@ -1,1 +1,1 @@
-lo primero que vais a necesitar es instalar  este comando "npm i -g json-server" y una vez instalado lo unico que tendremos que hacer es ejecutar este :  "json-server --watch db.json"
+lo primero que vais a necesitar es instalar  este comando que solo se instala una vez, si tienes Windows pon :"npm i -g json-server", en Mac prueba: sudo npm install -g json-server  y una vez instalado lo unico que tendremos que hacer es cada vez que queramos ejecutar este back improvisado poner  :  "json-server --watch db.json"
